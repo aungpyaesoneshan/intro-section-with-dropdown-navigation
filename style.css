@@ -110,6 +110,9 @@ left: 300px;
     display: none;
     transition: 1s;
 }
+.close-menu,.mobile-menu{
+    cursor: pointer;
+}
 /*------------------ Section ------------------*/
 section{
     display: flex;
