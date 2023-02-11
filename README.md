@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Aung-Pyae-Sone-Shan/intro-section-with-dropdown-navigation-main](https://github.com/Aung-Pyae-Sone-Shan/intro-section-with-dropdown-navigation-main)
+- Solution URL: [https://github.com/aungpyaesoneshan/intro-section-with-dropdown-navigation](https://github.com/aungpyaesoneshan/intro-section-with-dropdown-navigation)
 - Live Site URL: [https://aung-pyae-sone-shan.github.io/intro-section-with-dropdown-navigation-main/](https://aung-pyae-sone-shan.github.io/intro-section-with-dropdown-navigation-main/)
 
 ## My process
@@ -49,7 +49,7 @@ Users should be able to:
 ## Author
 
 <!-- - Website - [Add your name here](https://www.your-site.com) -->
-- Frontend Mentor - [@Aung-Pyae-Sone-Shan](https://www.frontendmentor.io/profile/Aung-Pyae-Sone-Shan)
+- Frontend Mentor - [@Aung-Pyae-Sone-Shan](https://www.frontendmentor.io/profile/Happycloud250)
 <!-- - Twitter - [@yourusername](https://www.twitter.com/yourusername) -->
 
 
